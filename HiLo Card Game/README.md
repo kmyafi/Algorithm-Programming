@@ -9,7 +9,7 @@ Kartu remi merupakan kumpulan 52 kartu yang digunakan untuk permainan. Salah sat
   - "*Upper*" berarti kartu tertutup memiliki nilai lebih besar daripada kartu terbuka.
   - "*Lower*" berarti kartu tertutup memiliki nilai lebih kecil daripada kartu terbuka.
 - Apabila pemain menebak dengan benar, mereka mendapatkan 1 poin dan *game* dilanjutkan. Kartu tertutup menjadi kartu terbuka yang baru. Kartu tertutup yang baru diambil dari *deck*.
-- Apabila pemain salah menebak, maka game dihentikan.
+- Apabila pemain salah menebak, maka *game* dihentikan.
 - Apabila kartu tertutup dan kartu terbuka memiliki nilai yang sama, tidak terjadi penambahan poin dan *game* dilanjutkan. Kartu tertutup menjadi kartu terbuka yang baru. Kartu tertutup yang baru diambil dari *deck*.
 - Kartu yang telah dimainkan tidak digunakan lagi (tidak kembali ke *deck*).
 
