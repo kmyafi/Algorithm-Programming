@@ -2,6 +2,7 @@ Bilangan prima adalah bilangan asli lebih dari 1 yang hanya mempunyai dua faktor
 
 Tugas kalian adalah membuat program yang meminta *input* suatu bilangan asli $n$ dan memberi *output* semua bilangan prima yang ada di $n$. Sebagai contoh: jika $n = 259$, maka *output*-nya adalah [2,5,59]. Beberapa ketentuan khusus dari program yang dibuat:
 1. Jika terdapat dua bilangan yang sama, harus ditulis satu kali saja.
-    Contoh: 1717 → [7, 17, 71]
-3. Jika terdapat bilangan yang mengandung angka 0, seperti 03, maka harus ditulis sebagai 3 dan berpengaruh terhadap poin a).
-  Contoh: 103 → [3, 103]
+Contoh: 1717 → [7, 17, 71]
+1. Jika terdapat bilangan yang mengandung angka 0, seperti 03, maka harus ditulis sebagai 3 dan berpengaruh terhadap poin a).
+Contoh: 103 → [3, 103]
+1. Tidak perlu dilakukan *sorting* pada *output*. Sebagai contoh, output berupa [17, 5] dan [5, 17] keduanya benar.
