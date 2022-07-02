@@ -2,6 +2,7 @@
 Kartu remi merupakan kumpulan 52 kartu yang digunakan untuk permainan. Salah satu contoh permainan yang menggunakan kartu remi adalah upper-lower. Peraturan permainan tersebut sebagai berikut:
 - Nilai kartu dari terendah hingga tertinggi sebagai berikut:
   > *Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, jack, queen, king.*
+  
   Perhatikan bahwa terdapat 52 kartu, tetapi hanya 13 nilai. Hal ini berarti dalam satu *deck* kartu remi, terdapat empat kartu untuk setiap nilai.
 - Pada awal permainan, pemain akan diberikan 1 kartu tertutup (nilai tidak diketahui) dan 1 kartu terbuka (nilai diketahui) dari *deck*. 
 - Pemain harus menebak nilai kartu yang tertutup.
