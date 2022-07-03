@@ -26,6 +26,7 @@ Buatlah program permainan *upper-lower* di Python dengan ketentuan tambahan beri
 
 Contoh output running program seperti yang dilihat dibawah ini.
 ```
+-------~~-------~~-------
 Kartu yang terbuka adalah kartu 2.
 Kartu tertutup sudah diambil
 upper or lower ?: upper
