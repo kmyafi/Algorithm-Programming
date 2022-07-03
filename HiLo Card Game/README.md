@@ -48,11 +48,11 @@ Selamat! Deck kartu sudah habis, restart? (y/n):y
 -------~~-------~~-------
 Kartu yang terbuka adalah kartu jack.
 Kartu tertutup sudah diambil
-upper or lower ?: ayam
+upper or lower?: ayam
 Anda salah input, silahkan ulang.
-upper or lower ?: bebek
+upper or lower?: bebek
 Anda salah input, silahkan ulang.
-upper or lower ?: upper
+upper or lower?: upper
 Kartu tertutup adalah kartu 2. Jawaban anda salah.
 Score akhir: 0
 Restart?(y/n):n
