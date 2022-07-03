@@ -25,4 +25,34 @@ Buatlah program permainan *upper-lower* di Python dengan ketentuan tambahan beri
 - Gunakanlah *input()* dan *module random* untuk membantu program kalian.
 
 Contoh output running program seperti yang dilihat dibawah ini.
-![Example Output](https://github.com/kmyafi/Algorithm-Programming/blob/main/HiLo%20Card%20Game/ExampleOutput_No5.jpg)
+```
+Kartu yang terbuka adalah kartu 2.
+Kartu tertutup sudah diambil
+upper or lower ?: upper
+Nilai kartu sama, kita lanjutkan
+-------~~-------~~-------
+Kartu yang terbuka adalah kartu 2.
+Kartu tertutup sudah diambil
+upper or lower ?: upper
+Kartu tertutup adalah kartu jack. Jawaban anda benar.
+-------~~-------~~-------
+Kartu yang terbuka adalah kartu jack.
+Kartu tertutup sudah diambil
+upper or lower ?: lower
+Kartu tertutup adalah kartu ace. Jawaban anda benar.
+-------~~-------~~-------
+Kartu yang terbuka adalah kartu ace.
+Score akhir: 2
+Selamat! Deck kartu sudah habis, restart?(y/n):y
+-------~~-------~~-------
+Kartu yang terbuka adalah kartu jack.
+Kartu tertutup sudah diambil
+upper or lower ?: ayam
+Anda salah input, silahkan ulang.
+upper or lower ?: bebek
+Anda salah input, silahkan ulang.
+upper or lower ?: upper
+Kartu tertutup adalah kartu 2. Jawaban anda salah.
+Score akhir: 0
+Restart?(y/n):n
+```
