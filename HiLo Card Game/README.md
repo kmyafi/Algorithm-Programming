@@ -44,7 +44,7 @@ Kartu tertutup adalah kartu ace. Jawaban anda benar.
 -------~~-------~~-------
 Kartu yang terbuka adalah kartu ace.
 Score akhir: 2
-Selamat! Deck kartu sudah habis, restart? (y/n):y
+Selamat! Deck kartu sudah habis, restart? (y/n): y
 -------~~-------~~-------
 Kartu yang terbuka adalah kartu jack.
 Kartu tertutup sudah diambil
