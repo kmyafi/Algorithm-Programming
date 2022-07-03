@@ -29,17 +29,17 @@ Contoh output running program seperti yang dilihat dibawah ini.
 -------~~-------~~-------
 Kartu yang terbuka adalah kartu 2.
 Kartu tertutup sudah diambil
-upper or lower ?: upper
+upper or lower?: upper
 Nilai kartu sama, kita lanjutkan
 -------~~-------~~-------
 Kartu yang terbuka adalah kartu 2.
 Kartu tertutup sudah diambil
-upper or lower ?: upper
+upper or lower?: upper
 Kartu tertutup adalah kartu jack. Jawaban anda benar.
 -------~~-------~~-------
 Kartu yang terbuka adalah kartu jack.
 Kartu tertutup sudah diambil
-upper or lower ?: lower
+upper or lower?: lower
 Kartu tertutup adalah kartu ace. Jawaban anda benar.
 -------~~-------~~-------
 Kartu yang terbuka adalah kartu ace.
